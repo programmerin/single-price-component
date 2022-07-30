@@ -1,4 +1,4 @@
-### [Head on to the website](https://programmerin.github.io/single-price-component/)
+### [Head on to the website](single-price-component-lbwb34gfy-programmerin.vercel.app)
 
 -------------------------------------------------------------------------------------
 
