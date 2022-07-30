@@ -19,8 +19,9 @@
     <title>Single Price Component</title>
   </head>
   <body
-    class="flex h-screen items-center justify-center bg-my-color py-8 font-karla"
+    class="flex min-h-screen flex-col items-center justify-center bg-my-color font-karla"
   >
+    <div class="sm:hidden">&nbsp;</div>
     <!-- Card -->
     <div
       class="mx-9 max-w-2xl overflow-hidden rounded-md bg-white shadow-lg sm:rounded-lg"
@@ -65,9 +66,10 @@
         </div>
       </div>
     </div>
+
     <!-- Footer -->
     <footer
-      class="fixed bottom-0 left-0 w-full p-7 py-3 text-center text-sm font-normal text-light-grey/70"
+      class="w-full self-end bg-my-color p-7 py-3 text-center text-sm font-normal text-light-grey/70"
     >
       <div
         class="items-center justify-center space-y-1 sm:flex sm:space-y-0 sm:space-x-4"
