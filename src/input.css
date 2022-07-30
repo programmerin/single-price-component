@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-cyan: 42, 178, 175;
+    --color-bright-yellow: 192, 223, 52;
+    --color-light-grey: 228, 239, 245;
+    --color-grayish-blue: 152, 166, 189;
+    --color-qasim-favorite: 16, 35, 35;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block w-full rounded-md bg-bright-yellow py-3 px-2 text-center shadow-lg transition-all duration-300 hover:bg-bright-yellow/80;
+  }
+
+  .heading-tertiary {
+    @apply mb-5 text-lg font-bold;
+  }
+}
