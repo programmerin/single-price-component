@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------
 
-# Single price grid component
+# Single price grid component sfdfdfdfdfd
 
 ![Design preview for the Single price grid component coding challenge](https://github.com/programmerin/single-price-component/blob/main/design/desktop-design.jpg)
 
